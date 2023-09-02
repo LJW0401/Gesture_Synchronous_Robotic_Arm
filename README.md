@@ -1,0 +1,2 @@
+# Gesture_Synchronous_Robotic_Arm
+手臂姿态同步机械臂
